@@ -1,0 +1,97 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 9,
+      "minecraft:time_since_rest": 5657,
+      "minecraft:walk_one_cm": 27523,
+      "minecraft:leave_game": 3,
+      "minecraft:mob_kills": 8,
+      "minecraft:damage_taken": 820,
+      "minecraft:play_time": 34829,
+      "minecraft:damage_dealt": 858,
+      "minecraft:jump": 193,
+      "minecraft:time_since_death": 6418,
+      "minecraft:interact_with_furnace": 12,
+      "minecraft:sprint_one_cm": 17033,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 5225,
+      "minecraft:total_world_time": 34829,
+      "minecraft:fly_one_cm": 35881,
+      "minecraft:deaths": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 1,
+      "minecraft:copper_boots": 1,
+      "minecraft:wooden_axe": 1,
+      "minecraft:copper_leggings": 1,
+      "minecraft:copper_ingot": 25,
+      "minecraft:cooked_mutton": 4,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:copper_axe": 1,
+      "minecraft:stick": 36,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:brown_bed": 1,
+      "minecraft:copper_chestplate": 1,
+      "minecraft:copper_pickaxe": 1,
+      "minecraft:acacia_planks": 32
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 8,
+      "minecraft:copper_boots": 1,
+      "minecraft:wooden_axe": 18,
+      "minecraft:cooked_mutton": 1,
+      "minecraft:crafting_table": 3,
+      "minecraft:copper_leggings": 1,
+      "minecraft:brown_bed": 1,
+      "minecraft:beef": 2,
+      "minecraft:wooden_pickaxe": 13,
+      "minecraft:furnace": 1,
+      "minecraft:copper_chestplate": 1,
+      "minecraft:stone_pickaxe": 3
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:sheep": 3,
+      "minecraft:cow": 3,
+      "minecraft:spider": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 6,
+      "minecraft:crafting_table": 2,
+      "minecraft:coal_ore": 44,
+      "minecraft:acacia_log": 8,
+      "minecraft:stone": 15
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 18,
+      "minecraft:wooden_pickaxe": 2,
+      "minecraft:stick": 66,
+      "minecraft:cobblestone": 26,
+      "minecraft:brown_wool": 3,
+      "minecraft:brown_bed": 1,
+      "minecraft:leather": 9,
+      "minecraft:crafting_table": 3,
+      "minecraft:bone": 10,
+      "minecraft:arrow": 4,
+      "minecraft:raw_copper": 60,
+      "minecraft:beef": 20,
+      "minecraft:coal": 13,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:string": 6,
+      "minecraft:oak_log": 18,
+      "minecraft:wooden_axe": 2,
+      "minecraft:stone_axe": 1,
+      "minecraft:acacia_log": 8,
+      "minecraft:mutton": 8,
+      "minecraft:spider_eye": 3,
+      "minecraft:acacia_planks": 2
+    }
+  },
+  "DataVersion": 4903
+}

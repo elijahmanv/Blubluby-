@@ -1,0 +1,6 @@
+{
+  "minCost": 15,
+  "maxCost": 65,
+  "anvilCost": 7,
+  "pickaxeOnly": false
+}
